@@ -1,1 +1,3 @@
-# Vending-Machine-App
+# 🎄 Christmas Vending Machine 🎄
+
+
